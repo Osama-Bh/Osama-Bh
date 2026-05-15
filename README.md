@@ -4,8 +4,7 @@
 
 ### 💻 Junior Backend Developer | C# & .NET Enthusiast
 
-Passionate about building backend applications, learning new technologies, and improving software engineering skills.
-
+Passionate about backend development, continuous learning, and growing as a software engineer.
 </div>
 
 ---
