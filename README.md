@@ -59,9 +59,7 @@ Passionate about building backend applications, learning new technologies, and i
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Osama-Bh\&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Osama-Bh\&layout=compact)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Osama-Bh&show_icons=true&theme=tokyonight)
 
 </div>
 
