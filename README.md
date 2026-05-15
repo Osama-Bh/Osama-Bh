@@ -32,13 +32,12 @@ Passionate about building backend applications, learning new technologies, and i
 
 <p>
   <img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" alt="SQL Server" height="48" />
-  <img src="https://miro.medium.com/v2/resize:fit:512/1*la7zjC8ubB9wH6H4A3E6ig.png" alt="Entity Framework Core" height="48" />
 </p>
 
 ### ⚡ Tools & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,visualstudio,postman" />
 </p>
 
 ---
@@ -68,7 +67,7 @@ Passionate about building backend applications, learning new technologies, and i
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/Osama-Bh">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
@@ -76,7 +75,7 @@ Passionate about building backend applications, learning new technologies, and i
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:YOUR_EMAIL@example.com">
+  <a href="mailto:osama.mb7@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
