@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### 💻 Junior Backend Developer | C# & .NET
+### 💻 Backend Developer | C# & .NET
 
 Passionate about backend development, continuous learning, and growing as a software engineer.
 </div>
